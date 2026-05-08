@@ -2,7 +2,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:38BDF8,100:0F172A&text=Welcome%20to%20My%20Github&fontColor=CBD5E1&fontSize=36&fontAlign=50&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:38BDF8,100:0F172A&text=Welcome%20to%20My%20Github&fontColor=CBD5E1&fontSize=36&fontAlign=50&fontAlignY=30&animation=fadeIn"
     alt="Centered Minimal Premium Banner"
   />
 </div>
@@ -92,7 +92,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,40:38BDF8,60:38BDF8,100:0F172A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F172A,40:38BDF8,60:38BDF8,100:0F172A"
     alt="Premium Footer"
   />
 </div>
