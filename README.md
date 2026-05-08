@@ -2,9 +2,19 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:38BDF8,60:38BDF8,100:0F172A&text=Jay%20Kumar%20Jain&fontColor=F8FAFC&fontSize=52&fontAlignY=40&desc=Programmer%20•%20Data%20Science%20Student%20•%20Open%20Source&descAlignY=61&descSize=18&animation=fadeIn"
-    alt="Premium Center Glow Blue Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:38BDF8,100:0F172A&text=Welcome%20to%20My%20Github&fontColor=CBD5E1&fontSize=36&fontAlign=50&fontAlignY=38&animation=fadeIn"
+    alt="Centered Minimal Premium Banner"
   />
+</div>
+
+<!-- Typing Description -->
+<div align="center">
+  
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=900&lines=Programmer+%7C+Data+Science+Student;Passionate+about+Open+Source+and+Development;Building+Projects+and+Learning+Everyday;Exploring+AI%2C+Web+Development+and+Problem+Solving"
+    alt="Typing SVG"
+  />
+
 </div>
 
 
@@ -66,6 +76,16 @@
     alt="Divider"
   />
 </div>
+
+
+<!-- Connect With Me -->
+<h2 align="center">Connect With Me</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 
 <!-- Footer -->
