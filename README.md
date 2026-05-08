@@ -1,24 +1,39 @@
+<!-- ======================================= -->
 <!-- Banner -->
+<!-- ======================================= -->
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,50:38BDF8,100:0F172A&text=Welcome%20to%20My%20Github&fontColor=CBD5E1&fontSize=36&fontAlign=50&fontAlignY=30&animation=fadeIn"
-    alt="Centered Minimal Premium Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:38BDF8,100:0F172A&text=Jay%20Kumar%20Jain&fontColor=E2E8F0&fontSize=35&fontAlign=50&fontAlignY=25&desc=Programmer%20•%20Data%20Science%20Student%20•%20Open%20Source%20Enthusiast&descAlign=50&descAlignY=50&animation=twinkling"
+    alt="Premium Banner"
   />
 </div>
 
+
+<!-- ======================================= -->
 <!-- Typing Description -->
+<!-- ======================================= -->
 <div align="center">
-  
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=900&lines=Programmer+%7C+Data+Science+Student;Passionate+about+Open+Source+and+Development;Building+Projects+and+Learning+Everyday;Exploring+AI%2C+Web+Development+and+Problem+Solving"
     alt="Typing SVG"
   />
-
 </div>
 
 
+<!-- ======================================= -->
+<!-- Header -->
+<!-- ======================================= -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jay-kumar-jain&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jay-kumar-jain?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/jay-kumar-jain?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+</div>
+
+
+<!-- ======================================= -->
 <!-- Divider -->
+<!-- ======================================= -->
 <div align="center">
   <img
     width="100%"
@@ -29,8 +44,9 @@
 </div>
 
 
-
+<!-- ======================================= -->
 <!-- Tech Stack -->
+<!-- ======================================= -->
 <h2 align="center">Tech Stack</h2>
 <!-- Languages -->
 <div align="center">
@@ -67,7 +83,9 @@
 </div>
 
 
+<!-- ======================================= -->
 <!-- Divider -->
+<!-- ======================================= -->
 <div align="center">
   <img
     width="100%"
@@ -78,7 +96,45 @@
 </div>
 
 
+<!-- ======================================= -->
+<!-- GitHub Stats -->
+<!-- ======================================= -->
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=jay-kumar-jain&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=jay-kumar-jain&theme=tokyonight&hide_border=true"
+  />
+</div>
+<br/>
+<div lign="center">
+  <img
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-kumar-jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+</div>
+
+
+<!-- ======================================= -->
+<!-- Divider -->
+<!-- ======================================= -->
+<div align="center">
+  <img
+    width="100%"
+    height="2"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header"
+    alt="Divider"
+  />
+</div>
+
+
+<!-- ======================================= -->
 <!-- Connect With Me -->
+<!-- ======================================= -->
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -88,7 +144,9 @@
 </p>
 
 
+<!-- ======================================= -->
 <!-- Footer -->
+<!-- ======================================= -->
 <div align="center">
   <img
     width="100%"
