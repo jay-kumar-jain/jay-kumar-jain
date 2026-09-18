@@ -115,24 +115,28 @@
 
 
 <!-- ======================================= -->
+<!-- Divider -->
+<!-- ======================================= -->
+<div align="center">
+  <img
+    width="100%"
+    height="2"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=2&section=header"
+    alt="Divider"
+  />
+</div>
+
+
+<!-- ======================================= -->
 <!-- GitHub Stats -->
 <!-- ======================================= -->
 <h2 align="center">GitHub Stats</h2>
+
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=jay-kumar-jain&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-  />
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=jay-kumar-jain&theme=tokyonight&hide_border=true"
-  />
-</div>
-<br/>
-<div lign="center">
-  <img
-    width="100%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-kumar-jain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jay-kumar-jain&theme=tokyonight&hide_border=true"
+    alt="Jay's GitHub Streak"
   />
 </div>
 
@@ -154,11 +158,21 @@
 <!-- Connect With Me -->
 <!-- ======================================= -->
 <h2 align="center">Connect With Me</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+  <a href="https://www.linkedin.com/in/jay-kumar-jain">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:jaykumarjain.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
 </p>
 
 
